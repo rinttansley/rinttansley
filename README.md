@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rinttansley
 - 👀 I’m interested in: All things data engineering and analytics
-- 🌱 I’m currently learning: SQL, Tableau, Python
+- 🌱 I’m currently learning: SQL, Tableau, Python, GitHub, R, practicing LeetCode
 - 💞️ I’m looking to collaborate on: Nothing at the moment, still working on my own projects
 - 📫 How to reach me: linkedin.com/in/ettansley
 
